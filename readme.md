@@ -13,14 +13,20 @@ It helps us store, clean, manipulate, and analyze structured data (like tables, 
 
 **DataFrame** → 2D (like a table in Excel, with rows & columns).
 
-**Module:2**
+<h2 align="center">Module:2</h2>
 
 **Data Cleaning in pandas**
 
 **1.Checking the data**
+
 **2. Handling Missing Data**
+
 **3. Removing Duplicates**
+
 **4. Renaming Columns**
+
 **5. Changing Data Types**
+
 **6. Filtering Data**
+
 **7. Sorting Data**
